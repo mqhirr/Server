@@ -1,2 +1,2 @@
-# Server
-Growtopia server software made with ENet
+#### Server
+This will be updated soon, stay tuned!
