@@ -9,3 +9,7 @@ People liked Zephyr but it got discountinued so I wanted to re-work on a similia
 
 #### License
 This project is licensed under [GPL3](https://github.com/mqhirr/Server/blob/master/LICENSE). Feel free to use, sell, modify and commit changes!
+
+
+#### Features
+General GrowtopiaNoobs/GrowtopiaServer stuff with my dumbass trying to make it better
