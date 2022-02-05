@@ -1,5 +1,6 @@
 # Server
 This will be updated soon, stay tuned!
+</br> I will update it once I finish my project @ GrowBrief
 
 #### What will this project include?
 It will include custom ENet build (aka. ENet as DLL for runtime)
@@ -7,9 +8,8 @@ It will include custom ENet build (aka. ENet as DLL for runtime)
 #### What's the point of making this?
 People liked Zephyr but it got discountinued so I wanted to re-work on a similiar project again
 
-#### License
-This project is licensed under [GPL3](https://github.com/mqhirr/Server/blob/master/LICENSE). Feel free to use, sell, modify and commit changes!
-
-
 #### Features
 General GrowtopiaNoobs/GrowtopiaServer stuff with my dumbass trying to make it better
+
+#### License
+This project is licensed under [GPL3](https://github.com/mqhirr/Server/blob/master/LICENSE). Feel free to use, sell, modify and commit changes!
